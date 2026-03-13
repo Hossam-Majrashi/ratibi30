@@ -1,0 +1,15 @@
+{
+  "project_dir": "/mnt/data/ratibi30",
+  "zip_file": "/mnt/data/ratibi30.zip",
+  "file_count": 36,
+  "sample_files": [
+    "README.md",
+    "analysis_options.yaml",
+    "lib/app/app.dart",
+    "lib/app/routes.dart",
+    "lib/app/theme.dart",
+    "lib/core/enums/expense_category.dart",
+    "lib/core/extensions/date_extensions.dart",
+    "lib/core/utils/currency_formatter.dart"
+  ]
+}
